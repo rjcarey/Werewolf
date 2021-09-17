@@ -1,0 +1,5 @@
+characters = [
+            "Werewolf", "Wolf-Father", "Big Bad Wolf", "White Wolf", "Wolf-Hound", "Wild Child", "Villager", "Cupid",
+            "Seer", "Twins", "Little Girl", "Fox", "Rusty Knight", "Elder", "Witch", "Bear Tamer", "Hunter", "Piper",
+            "Angel"
+            ]  # "Thief"
